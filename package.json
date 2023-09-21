@@ -4,7 +4,7 @@
   "description": "GraphQL Tutorial",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js --exec babel-node --presets es2015",
+    "start": "nodemon app.js --exec babel-node --presets es20155",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
